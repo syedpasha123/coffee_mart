@@ -1,0 +1,24 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+}
+body
+{background-image: url("hero-bcg (11).jpg");
+    background-repeat:no-repeat;
+    height: calc(100vh - 100px);
+    width: 100vw;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+}
+.koffi
+{
+    background-color: black;
+    color: white;
+}
+.mart
+{
+    color: white;
+}
